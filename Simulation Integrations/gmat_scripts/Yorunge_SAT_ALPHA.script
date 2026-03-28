@@ -1,0 +1,17 @@
+Create Spacecraft SAT_ALPHA;
+GMAT SAT_ALPHA.DateFormat = UTCGregorian;
+GMAT SAT_ALPHA.Epoch = '01 Jan 2026 12:00:00.000';
+GMAT SAT_ALPHA.SMA = 6411.0;
+GMAT SAT_ALPHA.ECC = 0.0001;
+GMAT SAT_ALPHA.INC = 98.0;
+
+Create ForceModel KusursuzDunyaGucu;
+GMAT KusursuzDunyaGucu.CentralBody = Earth;
+GMAT KusursuzDunyaGucu.PrimaryBodies = {Earth};
+
+Create Propagator DefaultProp;
+GMAT DefaultProp.FM = KusursuzDunyaGucu;
+GMAT DefaultProp.Type = RungeKutta89;
+
+BeginMissionSequence;
+Propagate DefaultProp(SAT_ALPHA) {12000.0};

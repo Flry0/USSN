@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 000851f0ec1f39b44bf10ffea686a5ff
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces1.002
+    second: {fileID: 2100000, guid: 143682061be34ef42a6a0a00e706718b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces2.002
+    second: {fileID: 2100000, guid: 76a0a8d2314fb3248a9a50599af0f6b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces3.002
+    second: {fileID: 2100000, guid: 39cb6c70e13027c4db46bfbf01e2dcb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces4.002
+    second: {fileID: 2100000, guid: 15e57822381c4264d8f86ffcf78160d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces5.002
+    second: {fileID: 2100000, guid: 434542f69eecb514b91f97ba9bf01e80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces6.002
+    second: {fileID: 2100000, guid: dbab4904af0d3bf4db0dee5125c4e1ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces7.002
+    second: {fileID: 2100000, guid: c5bbd74c690300f45acc638707cacb4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GPMcore-SolarFaces8.002
+    second: {fileID: 2100000, guid: 45b8567422b72a74a9c25a0010e179f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarB-Black-fl
+    second: {fileID: 2100000, guid: 7626f8ea81875a547b9468c176cdc479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarB-Black-sm
+    second: {fileID: 2100000, guid: caa97203d4f5d594cbe26d15b1ac946a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarB-BlackFoil-fl
+    second: {fileID: 2100000, guid: 94114c4807c57ac44917c779f017ac2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarB-BlackFoil-sm
+    second: {fileID: 2100000, guid: 5265ef5568dee194db1680a6a415c562, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarB-Bronze-sm
+    second: {fileID: 2100000, guid: 37d03d263b941d443b2f2870e8ef0ea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarB-Gold-fl
+    second: {fileID: 2100000, guid: f81bc15508bacf34f87ed8a55ba74af4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarB-Gold-sm
+    second: {fileID: 2100000, guid: c658c4709af483f4488381d14bebed11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarB-Grey-fl
+    second: {fileID: 2100000, guid: 441b9a22f5f3a0642807fb1833f879f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarB-MainGold-sm
+    second: {fileID: 2100000, guid: 19fa125fe492a67489bdf54b08cd329e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarB-Silver-Reflector
+    second: {fileID: 2100000, guid: 3eca21273a03470498f875c77a077307, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarB-Silver-fl
+    second: {fileID: 2100000, guid: b31f7dbf2f071d045ab79aa31a63277b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarB-Silver-sm
+    second: {fileID: 2100000, guid: f0acc5435fd47fa4f95958121f71d24f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarB-SilverNoFoil-fl
+    second: {fileID: 2100000, guid: ded2c9210c777e844836ee30e430ba75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarB-SilverNoFoil-sm
+    second: {fileID: 2100000, guid: f1ad0b76c9d16a6489742ce5c5884838, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SolarB-SolarPanelBack
+    second: {fileID: 2100000, guid: 2dd2e3eb24d9ace43ae18dcb42c6b2d6, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+UNITY_HOST_IP = "127.0.0.1"
+UNITY_API_PORT = 7777
+GMAT_EXE_PATH = "C:\\Program Files\\GMAT\\bin\\GMAT.exe"
+GMAT_OUTPUT_DIR = "gmat_scripts"
+DEFAULT_ORBIT_SPEED = 15.0
+DEFAULT_ORBIT_RADIUS = 50.0
+ACTION_SPAWN = "spawn"
+ACTION_UPDATE = "update"
+ACTION_MOVE = "move"
+ACTION_DELETE = "delete"
+TYPE_ASTEROID = "asteroid"
+TYPE_SATELLITE = "satellite"
+TYPE_SOLAR_WAVE = "solar_wave"
+TYPE_DEBRIS = "debris"
